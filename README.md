@@ -1,3 +1,3 @@
-# P-STEER - Self-Supervised Learning for Energy-Efficient Ground Robot Traversability Prediction Using Proprioception
+# P-STEER (**P**roprioceptive-Augmented **S**elf-Supervised **T**raversability **E**stimation for **E**nergy-Efficient **R**obots)
 
-All the code used for the proposed article will be added to this repository upon acceptance.
+Should our paper be accepted for IROS 2025, we will add the source code for our traversability prediction method to this repository.
