@@ -4,4 +4,4 @@ Should our paper be accepted for IROS 2025, we will add the source code for our 
 
 ## Video
 
-https://youtu.be/pCfJkjTjWHM
+[![YouTube](http://i.ytimg.com/vi/pCfJkjTjWHM/hqdefault.jpg)](https://www.youtube.com/watch?v=pCfJkjTjWHM)
